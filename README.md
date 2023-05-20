@@ -55,9 +55,10 @@ The application supports various code templates that can be generated through vo
 - abstract Class
 
 ## ScreenShots
-![image](https://github.com/engurushank/Java-Voice-Coder/edit/master/images/class main method.jpg)
-![image](https://github.com/engurushank/Java-Voice-Coder/edit/master/images/if_statement.jpg)
-![image](https://github.com/engurushank/Java-Voice-Coder/edit/master/images/for loop.jpg)
-![image](https://github.com/engurushank/Java-Voice-Coder/edit/master/images/switch statement.jpg)
-![image](https://github.com/engurushank/Java-Voice-Coder/edit/master/images/sample program.jpg)
+
+![switch statement](https://github.com/engurushank/Java-Voice-Coder/assets/118356223/f3cd848b-2360-4dbb-b482-2c3df18cf8d7)
+![for loop](https://github.com/engurushank/Java-Voice-Coder/assets/118356223/2d5de49f-814d-4c5f-a548-b4e97fe34dd8)
+![if_statement](https://github.com/engurushank/Java-Voice-Coder/assets/118356223/2a95d776-e321-4879-aec6-8bc5b428b9cc)
+![class main method](https://github.com/engurushank/Java-Voice-Coder/assets/118356223/bb0cc24e-3920-4d04-96bf-6fa595dac80a)
+![sample program](https://github.com/engurushank/Java-Voice-Coder/assets/118356223/4fbe0f8b-2068-47e4-98ba-1896ec62554b)
 
