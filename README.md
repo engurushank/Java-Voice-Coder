@@ -1,6 +1,6 @@
 # Java Development with Voice-Input
 
-This project allows you to generate Java code using voice input. It utilizes the SpeechRecognition library to convert speech to text and provides templates for generating different code snippets based on recognized keywords.
+This project is a desktop application that allows you to generate Java code using voice input. It utilizes the SpeechRecognition library to convert speech to text and provides templates for generating different code snippets based on recognized keywords.
 
 ## Requirements
 
