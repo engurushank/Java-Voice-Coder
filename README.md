@@ -49,13 +49,10 @@ The application supports various code templates that can be generated through vo
 - abstract class
 - method
 - static method
+- method
+- static Method
+- synchronized Method
+- abstract Class
 
-
-
-
-
-
-- Method
-- Static Method
-- Synchronized Method
-- Abstract Class
+## ScreenShots
+![image](https://user-images.githubusercontent.com/71507908/148875210-617f0ace-eae8-433d-b943-cdd402f33040.png](https://github.com/engurushank/Java-Voice-Coder/edit/master/images/if_statement.jpg)
